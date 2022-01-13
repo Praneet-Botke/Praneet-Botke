@@ -1,39 +1,34 @@
-### Hi there 👋, My name is Praneet
-#### I am Student and Developer
-![I am Student and Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<h1 align="center">Hello 👋, I'm Praneet Botke</h1>
+<h3>I'm aspiring 🔭️ Full-Stack Web Developer currently learning 🌱 ReactJs | Half Finished 🧑‍💻 |  I love to learn new 💻 Technologies 
 
-- 👀 I'm want to become Full Stack Developer.<br>
-- 💞️ I’m interested in
-   <ul><li> Python and C++ </li>
-   <li> Web Development. </li>
-   <li> Artificial Intelligence & Machine Learning. </li></ul>
-- 🌱 I’m currently doing my B.Tech from SRMIST.
-   <ul><li> I'm Currently learning </li>
-       <li> App Development. </li>
-       <li> Artificial Intelligence & Machine Learning. </li>
-       <li> Data Structures and Algorithms. </li></ul>
-- 📫 I’m open to collaborate on any projects based on Web Development and Artificial Intelligence & Machine Learning.
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+  
 
-Skills: JS / HTML / CSS / Problem Solving / ANGULAR / C# / JAVA / Rest API / SQL / CPP / PYTHON / C Language / C++
-
-- 🔭 I’m currently working on Full Stack and Development Project 
-- 🌱 I’m currently learning AI and ML 
-- 👯 I’m looking to collaborate on Web Development and Designing 
-- 📫 How to reach me: https://github.com/Praneet-Botke 
+<h2 align="left">About me ✌️</h2>
+  <ul>
+    <li>🔭 I’m currently working on a Portfolio Website. </li>
+    <li> 🌱 I’m currently learning Full stack web devlopment and DSA.</li>
+    <li> 👯 I’m looking to collaborate on open source web project.</li> 
+    <li>💬 Ask me about HTML | CSS | C++ | JS </li>
+    <li>😄 Pronouns:  He/him </li>
+    <li>📫 How to reach me praneetbotke@gmail.com </li>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Praneet-Botke)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://github.com/Praneet-Botke/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://github.com/Praneet-Botke)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://github.com/Praneet-Botke/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://github.com/Praneet-Botke)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://github.com/Praneet-Botke)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sudhan_6" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sudhan_6" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sudhan-r-25a66b18b/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sudhan-r-25a66b18b" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_sudhan_6_/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_dharun_26" height="30" width="40" /></a>
+</p>
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+<h3>Check out my coding skills:</h3>
+<p align="left">
+  <a href="https://www.hackerrank.com/pb5139" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Sudhan" height="40" width="50" /></a>
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Praneet-Botke)](https://github.com/ryo-ma/github-profile-trophy)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Praneet-Botke)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudhan6&show_icons=true&locale=en&layout=compact" alt="sudhan6" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=sudhan6&show_icons=true&locale=en" alt="sudhan6" /></p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Praneet-Botke&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Praneet-Botke)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Praneet-Botke)  
-
-![Profile views](https://gpvc.arturio.dev/Praneet-Botke)  
+<hr />
