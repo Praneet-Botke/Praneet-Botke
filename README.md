@@ -16,14 +16,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sudhan_6" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sudhan_6" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sudhan-r-25a66b18b/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sudhan-r-25a66b18b" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_sudhan_6_/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_dharun_26" height="30" width="40" /></a>
+<a href="#" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sudhan_6" height="30" width="40" /></a>
+<a href="#" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sudhan-r-25a66b18b" height="30" width="40" /></a>
+<a href="#"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_dharun_26" height="30" width="40" /></a>
 </p>
 
 <h3>Check out my coding skills:</h3>
 <p align="left">
-  <a href="https://www.hackerrank.com/pb5139" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Sudhan" height="40" width="50" /></a>
+  <a href="https://www.hackerrank.com/pb5139" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Praneet" height="40" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
