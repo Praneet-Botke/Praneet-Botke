@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Praneet Botke</h1>
-<h3>I'm aspiring 🔭️ Full-Stack Web Developer currently learning 🌱 ReactJs | Half Finished 🧑‍💻 |  I love to learn new 💻 Technologies 
+<h3>I'm aspiring 🔭️ Full-Stack Web Developer currently learning 🌱 AI & ML | Half Finished 🧑‍💻 |  I love to learn new 💻 Technologies 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
   
