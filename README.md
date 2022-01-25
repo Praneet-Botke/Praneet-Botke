@@ -11,7 +11,7 @@
     <li> 👯 I’m looking to collaborate on open source web project.</li> 
     <li>💬 Ask me about HTML | CSS | C++ | JS </li>
     <li>😄 Pronouns:  He/him </li>
-    <li>📫 How to reach me praneetbotke@gmail.com </li>
+    <li>📫 How to reach me pb5139@srmist.edu.in </li>
 
 
 <h3 align="left">Connect with me:</h3>
