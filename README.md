@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Praneet Botke</h1>
-<h3>I'm aspiring 🔭️ Full-Stack Web Developer currently learning 🌱 AI & ML | Half Finished 🧑‍💻 |  I love to learn new 💻 Technologies 
+<h3>I'm aspiring 🔭️ Full-Stack Web Developer and Ethical Hacker currently learning 🌱 AI & ML | Half Finished 🧑‍💻 |  I love to learn new 💻 Technologies 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
   
@@ -7,7 +7,7 @@
 <h2 align="left">About me ✌️</h2>
   <ul>
     <li>🔭 I’m currently working on a Portfolio Website. </li>
-    <li> 🌱 I’m currently learning Full stack web devlopment and DSA.</li>
+    <li> 🌱 I’m currently learning AI & ML and DSA.</li>
     <li> 👯 I’m looking to collaborate on open source web project.</li> 
     <li>💬 Ask me about HTML | CSS | C++ | JS </li>
     <li>😄 Pronouns:  He/him </li>
